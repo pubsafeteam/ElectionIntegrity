@@ -26,4 +26,4 @@ It is in the best interest of all the AZ voters to have fair elections where eve
  - Writing off their concerns as "false" and essentially gaslighting voters (media & "fact-checkers")
  - Censorship of voter's ability to spread something newsworthy (Big-Tech)
  
- All of that injustice erodes the integrity of the election process by making it difficult for the truth to prevail, causing AZ votes to get censored on a massive scale as a result.
+ All of that injustice erodes the integrity of the election process by making it difficult for the truth to prevail, potentially causing AZ votes to get censored on a massive scale as a result regardless of party affiliation.  And if sharpies were handed out equally to people of all parties, wouldn't it be in the Democrat's (not just Republican's) best interest to make sure that none of the votes from their voter base are being suppressed as a result of the wrong writing utensil being distributed?
