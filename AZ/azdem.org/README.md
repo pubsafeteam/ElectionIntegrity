@@ -2,10 +2,10 @@
 
 This set of data shows the differences between the azdem.org early voting information page as of October 31st and the same page as it is today (November 5th). The main difference being that on the archived page there is language regarding what type of pens to use and instructions stating to avoid using markers, while on the current page the language about pens and markers has been removed entirely.
 
-The archived page can be found here (screenshot and copy of the page source code attached):
+The archived page can be found here (screenshot and copy of the page source code attached above):
 - https://web.archive.org/web/20201031232342/https://azdem.org/pevl/
 
-The current page with the missing language regarding pens can be found here (with screenshot and copy of page code attached):
+The current page with the missing language regarding pens can be found here (screenshot and copy of the page source code attached above):
 - https://azdem.org/pevl/
 
 # Background
